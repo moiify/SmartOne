@@ -5,8 +5,9 @@
 void Back(void);
 void Front(void);	
 void Stop(void);
-void Cam_Left(u16 Duo);
-void Cam_Right(u16 Duo);
 void Auto(void);
 void Init(void);
+void CarDir(u16 Duo);
+void CamRiceSet(u16 Duo);
+void CamAroundSet(u16 Duo);
 #endif

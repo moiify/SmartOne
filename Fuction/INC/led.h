@@ -6,5 +6,6 @@
 #define LED1 PEout(5)// PE5	
 
 void LED_Init(void);//≥ı ºªØ
+void BEEP_Init(void);
 
 #endif
