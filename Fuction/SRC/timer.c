@@ -2,7 +2,9 @@
 #include "led.h"
 #include "usart.h"
    	  
+
 extern unsigned int WaitTime=0;
+
 //TIM3 PWM部分初始化 
 //PWM输出初始化
 //arr：自动重装值
