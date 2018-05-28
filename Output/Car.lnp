@@ -18,7 +18,7 @@
 "..\output\stm32f10x_tim.o"
 "..\output\startup_stm32f10x_hd.o"
 "..\output\stm32f10x_usart.o"
---library_type=microlib --strict --scatter "..\Output\Car.sct"
+--strict --scatter "..\Output\Car.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
 --list ".\Listings\Car.map" -o ..\Output\Car.axf

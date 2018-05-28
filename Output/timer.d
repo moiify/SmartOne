@@ -31,4 +31,3 @@
 ..\output\timer.o: ..\Core&Library\inc\stm32f10x_wwdg.h
 ..\output\timer.o: ..\Core&Library\inc\misc.h
 ..\output\timer.o: ..\Fuction\INC\led.h
-..\output\timer.o: ..\Fuction\INC\usart.h
