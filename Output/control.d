@@ -40,3 +40,5 @@
 ..\output\control.o: ..\Fuction\INC\Control.h
 ..\output\control.o: F:\keil5\ARM\ARMCC\Bin\..\include\string.h 
 ..\output\control.o: F:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\output\control.o: F:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\control.o: F:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
